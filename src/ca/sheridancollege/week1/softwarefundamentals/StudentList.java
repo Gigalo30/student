@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class StudentList {
     
+    
     public static void main(String[] args) {
         
         Student [] sList= new Student[5];
